@@ -1,5 +1,8 @@
 Welcome to the kafkaman docs! This is the place to find official information on how to use kafkaman in your API projects.
 
+[![kafkaman App](/assets/app.svg)](/assets/app.svg)
+
+
 If you're just starting to learn about APIs and kafkaman, you can use a variety of channels both in and outside kafkaman:
 
 
