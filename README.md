@@ -1,9 +1,9 @@
-Welcome to the kafkaman docs! This is the place to find official information on how to use kafkaman in your API projects.
+Welcome to the kafkaman docs! This is the place to find official information on how to use kafkaman in your projects.
 
 [![kafkaman App](https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/app300x300.png)](https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/app300x300.png)
 
 
-If you're just starting to learn about APIs and kafkaman, you can use a variety of channels both in and outside kafkaman:
+If you're just starting to learn about kafkaman, you can use a variety of channels both in and outside kafkaman:
 
 
 ## What are you here to learn about?
@@ -17,7 +17,7 @@ If you're using kafkaman in your company or team, check out these guides to maxi
 
 ### Developing with kafkaman
 
-If you're integrating kafkaman with your CI/CD workflow or are developing with kafkaman APIs or libraries, check out these resources:
+If you're integrating kafkaman with your CI/CD workflow or are developing with kafkaman or libraries, check out these resources:
 
 ## Providing feedback
 
