@@ -8,16 +8,8 @@ To get the latest version of the kafkaman desktop app, visit the [download page]
     * [Mac](#installing-kafkaman-on-mac)
     * [Windows](#installing-kafkaman-on-windows)
     * [Linux](#installing-kafkaman-on-linux)
-* [Using kafkaman on the web](#using-kafkaman-on-the-web)
-    * [Browser requirements](#browser-requirements)
-    * [Installing the kafkaman desktop agent](#installing-the-kafkaman-desktop-agent)
-    * [Web limitations](#web-limitations)
 * [Updating kafkaman](#updating-kafkaman)
-* [Chrome app (deprecated)](#kafkaman-chrome-app-deprecated)
-    * [Migrating to the native app](#migrating-to-the-native-app)
-* [Using kafkaman behind a firewall](#using-kafkaman-behind-a-firewall)
 * [Troubleshooting your kafkaman installation](#troubleshooting-your-kafkaman-installation)
-* [Next steps](#next-steps)
 
 ## Installing kafkaman on Mac
 
