@@ -10,7 +10,7 @@ To create a new workspace:
 
 1. Select **Workspaces** in the upper. Select **Create Workspace** to add a new workspace. You can also search for existing workspaces using the search bar or select one from the dropdown list.
 
-    <img alt="Change workspace or create new" src="https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/recentWorkspaces.png" width="200px"/>
+    <img alt="Change workspace or create new" src="https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/recentWorkspaces.png" width="250px"/>
 
 1. Enter a **Name** and optional **Summary** for your workspace.
 1. Choose the workspace's visibility:
@@ -20,9 +20,9 @@ To create a new workspace:
     * A **Public** workspace is visible to all kafkaman users.
 1. Select **Create Workspace**.
 
-    <img alt="Change workspace or create new" src="https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/createWorkspace.png" width="300px"/>
+    <img alt="Change workspace or create new" src="https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/createWorkspace.png" width="400px"/>
 
-kafkaman will switch to your new workspace when you create it. You can move between workspaces at any time by selecting from the dropdown **Workspaces** list in the upper left.
+kafkaman will switch to your new workspace when you create it. You can move between workspaces at any time by selecting from the dropdown **Workspaces** list in the upper.
 
 <br />
 
