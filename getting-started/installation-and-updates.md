@@ -1,6 +1,8 @@
+# Installation and updates
+
 kafkaman is available as a native desktop app for Mac (Intel and M1), Windows (32-bit / 64-bit), and Linux (64-bit) operating systems.
 
-To get the latest version of the kafkaman desktop app, visit the [download page](https://github.com/kafkaman-lab/kafkaman-app) and select for your platform.
+To get the latest version of the kafkaman desktop app, visit the [download page](https://github.com/kafkaman-lab/kafkaman-app/releases) and select for your platform.
 
 ## Contents
 
@@ -11,11 +13,13 @@ To get the latest version of the kafkaman desktop app, visit the [download page]
 * [Updating kafkaman](#updating-kafkaman)
 * [Troubleshooting your kafkaman installation](#troubleshooting-your-kafkaman-installation)
 
+<br />
+
 ## Installing kafkaman on Mac
 
 kafkaman is available for macOS 10.11 (El Capitan) and later.
 
-1. [Download](https://github.com/kafkaman-lab/kafkaman-app) the latest kafkaman app.
+1. [Download](https://github.com/kafkaman-lab/kafkaman-app/releases) the latest kafkaman app.
 
     > Make sure to download the **Mac Apple Chip** version if you have a Mac with the M1 processor.
 
@@ -29,7 +33,7 @@ kafkaman is available for macOS 10.11 (El Capitan) and later.
 
 kafkaman is available for Windows 7 and later.
 
-1. [Download](https://github.com/kafkaman-lab/kafkaman-app) the latest kafkaman app.
+1. [Download](https://github.com/kafkaman-lab/kafkaman-app/releases) the latest kafkaman app.
 1. Select and run the `.exe` file to install kafkaman.
 
 > kafkaman v9.4 is the last version of the kafkaman app that supports both 32-bit and 64-bit Windows. All versions of the kafkaman app following v9.4 will only work on 64-bit Windows. You can continue to use kafkaman v9.4 and earlier on 32-bit Windows.
@@ -38,7 +42,7 @@ kafkaman is available for Windows 7 and later.
 
 You can install kafkaman on Linux by manually downloading it, using the [Snap](https://snapcraft.io/kafkaman) store link, or with the command `snap install kafkaman`.
 
-To install manually, [download](https://github.com/kafkaman-lab/kafkaman-app) and unzip the app, for example into the `Downloads` directory.
+To install manually, [download](https://github.com/kafkaman-lab/kafkaman-app/releases) and unzip the app, for example into the `Downloads` directory.
 
 To start the app from a launcher icon, create a desktop file, naming it `kafkaman.desktop` and saving it in the following location:
 
