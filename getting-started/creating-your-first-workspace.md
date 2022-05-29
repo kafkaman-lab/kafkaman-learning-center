@@ -1,4 +1,4 @@
-# Installation and updates
+# Creating your first workspace
 
 <br />
 

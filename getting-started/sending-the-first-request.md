@@ -41,6 +41,8 @@ In this example, kafkaman is acting as the client application and is communicati
 
 You have just used kafkaman to create a consumption group in a Kafka cluster and retrieve existing records on the selected topic. It's okay to take a moment to sit back and reflect on how great it is!
 
+<br />
+
 ## Next steps
 
 When you're ready, learn more about [building and sending requests in kafkaman](/docs/sending-requests/requests/).
