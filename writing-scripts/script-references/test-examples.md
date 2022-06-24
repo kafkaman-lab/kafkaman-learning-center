@@ -43,7 +43,6 @@ This code uses the `pm` library to run the `test` method. The text string will a
 
 This test checks the response code returned by the API. If the response code is `200`, the test will pass, otherwise it will fail. Select **Send** and go to the **Test Results** tab in the response area.
 
-[![Test output](https://assets.postman.com/kafkaman-docs/example-test-assertion-result-v9.jpg)](https://assets.postman.com/kafkaman-docs/example-test-assertion-result-v9.jpg)
 
 Try changing the status code in the assertion code and sending the request again to see how test results appear differently when they pass or fail.
 
@@ -368,7 +367,6 @@ pm.test("Check the active environment", () => {
 
 When you encounter errors or unexpected behavior in your test scripts, the kafkaman [Console](/docs/sending-requests/troubleshooting-api-requests/) can help you to identify the source. By combining `console.log()`, `console.info()`, `console.warn()` and `console.error()` debug statements with your test assertions, you can examine the content of the HTTP requests and responses, as well as kafkaman data items such as variables. Select **Console** at the bottom left of kafkaman to open it.
 
-[![Console info](https://assets.postman.com/kafkaman-docs/console-logs-in-pane-v8.jpg)](https://assets.postman.com/kafkaman-docs/console-logs-in-pane-v8.jpg)
 
 Log the value of a variable or response property:
 

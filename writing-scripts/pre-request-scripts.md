@@ -12,7 +12,6 @@ An example usage of pre-request scripting could be as follows:
 
 To include code you want to execute before kafkaman sends a request, open the request and select the __Pre-request Script__ tab. Enter the JavaScript you need to process before the request runs.
 
-![Pre Request Code](https://assets.postman.com/kafkaman-docs/pre-request-script-v8.jpg)
 
 When you select __Send__, the code will execute before kafkaman sends the request to the API.
 
@@ -20,13 +19,11 @@ When you select __Send__, the code will execute before kafkaman sends the reques
 
 You can add pre-request scripts to entire collections as well as to folders within collections. In both cases, your pre-request script will run before every request in the collection or folder. This allows you to define commonly used pre-processing or debugging steps you need to execute for multiple requests.
 
-To add pre-processing to a group of requests, locate the collection or folder in __Collections__ on the left of kafkaman. Select <img alt="Three dots icon" src="https://assets.postman.com/kafkaman-docs/icon-three-dots-v9.jpg" width="18px" style="vertical-align:middle;margin-bottom:5px"> to view more actions, then select __Edit__.
+To add pre-processing to a group of requests, locate the collection or folder in __Collections__ on the left of kafkaman. Select **...** to view more actions, then select __Edit__.
 
-<img src="https://assets.postman.com/kafkaman-docs/edit-collection-action-v8.jpg" alt="Collection Actions" width="300px"/>
 
 Open __Pre-request Scripts__ to enter code that will run before every request in the collection or folder.
 
-![Collection pre request script](https://assets.postman.com/kafkaman-docs/edit-collection-pre-request-v8.jpg)
 
 > You can define a pre-request script when you first create a collection or folder, or at any time after that.
 

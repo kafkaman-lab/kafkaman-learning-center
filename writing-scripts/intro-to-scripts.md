@@ -7,7 +7,8 @@ kafkaman contains a powerful runtime based on Node.js that allows you to add dyn
 
 kafkaman will prompt you with suggestions as you type—select one to autocomplete your code.
 
-[![Script autocomplete](https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/Autocomplete.gif)](https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/Autocomplete.gif)
+<img alt="Autocomplete" src="https://raw.githubusercontent.com/kafkaman-lab/kafkaman-learning-center/main/assets/Autocomplete.gif" width="400px"/>
+
 
 You can add pre-request and test scripts to a collection, a folder, a request within a collection, or a request not saved to a collection.
 
